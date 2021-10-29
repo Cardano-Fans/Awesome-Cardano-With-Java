@@ -1,5 +1,8 @@
 # Cardano-Development-Universe
 
+## Cardano CIPs (Cardano Improvement Proposals)
+- https://github.com/fivebinaries/CIPs
+
 ## Rust / WASM serialisation library - serialise transaction before submitting
 - https://github.com/Emurgo/cardano-serialization-lib
 
