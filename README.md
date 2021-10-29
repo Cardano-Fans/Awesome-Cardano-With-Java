@@ -52,3 +52,6 @@
 
 ## Wordpress - woocommerce
 - https://github.com/cardano-mercury/cardano-mercury-woocommerce
+
+## Cardano Sharp Wallet
+- https://github.com/CardanoSharp/cardanosharp-wallet
