@@ -58,3 +58,6 @@
 
 ## Security Audit DAO
 - https://github.com/SCATDAO
+
+## Stakepool Scripts
+- https://github.com/gitmachtl/scripts/
