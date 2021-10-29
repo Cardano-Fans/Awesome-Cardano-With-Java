@@ -3,6 +3,9 @@
 ## Cardano CIPs (Cardano Improvement Proposals)
 - https://github.com/fivebinaries/CIPs
 
+## Cardano Token Registry
+- https://github.com/cardano-foundation/cardano-token-registry
+
 ## Rust / WASM serialisation library - serialise transaction before submitting
 - https://github.com/Emurgo/cardano-serialization-lib
 
