@@ -50,6 +50,9 @@
 ## cardano-cli-js wrapper
 - https://github.com/Berry-Pool/cardanocli-js
 
+## Cardano CLI for hardware wallets
+- https://github.com/vacuumlabs/cardano-hw-cli
+
 ## PAB prototype in JavaScript
 - https://github.com/Berry-Pool/spacebudz/tree/main/src/cardano/market
 
@@ -58,6 +61,9 @@
 
 ## Vacuum Labs - Adalite wallet
 - https://github.com/vacuumlabs/adalite
+
+## Ledger hardware wallets
+- https://github.com/vacuumlabs/ledgerjs-cardano-shelley
 
 ## NFT Maker API in Ruby
 - https://github.com/lacepool/nftmaker_api
