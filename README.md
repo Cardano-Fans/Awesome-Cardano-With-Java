@@ -50,6 +50,9 @@
 ## Fracada - fractionalize NFTs
 - https://github.com/dcSpark/fracada
 
+## Cardano SPO Raffles
+- https://github.com/Haxfx/raffle
+
 ## Plutus Learning
 - https://gitlab.com/gimbalabs/plutus-learning
 
