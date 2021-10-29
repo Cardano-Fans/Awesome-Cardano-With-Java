@@ -47,6 +47,9 @@
 ## CIP14 - Asset fingerprinting
 -  https://github.com/Emurgo/cip14-js
 
+## Alonzo testnet for devs
+- https://github.com/SundaeSwap-finance/alonzo-testnet
+
 ## Yoroi - frontend
 - https://github.com/Emurgo/yoroi-frontend
 
