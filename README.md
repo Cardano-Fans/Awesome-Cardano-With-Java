@@ -73,3 +73,10 @@
 
 ## Private Alonzo Testnet (like Ganache from ETH)
 - https://github.com/minswap/private-alonzo-testnet
+
+## Alonzo Hello World smart contract
+- https://github.com/fivebinaries/welcome-to-alonzo
+
+## Nutlink Explorer (explorer.nut.link/)
+- https://github.com/fivebinaries/nutlink-explorer
+
