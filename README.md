@@ -92,8 +92,8 @@
 ## NFT Maker API in Ruby
 - https://github.com/lacepool/nftmaker_api
 
-## Ogmios node
-- https://ogmios.dev/
+## Ogmios node (https://ogmios.dev/)
+- https://github.com/CardanoSolutions/ogmios
 
 ## cardano-node
 - https://github.com/input-output-hk/cardano-node
