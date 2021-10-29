@@ -9,6 +9,9 @@
 ## NPM module for cardano-serialisation-library - NPM module for the above
 - https://www.npmjs.com/package/@emurgo/cardano-serialization-lib-nodejs
 
+## Plutus Learning
+- https://gitlab.com/gimbalabs/plutus-learning
+
 ## Blockfrost SDKs - abstracts away cardano-node access
 - https://github.com/blockfrost/blockfrost-java
 - https://github.com/blockfrost/blockfrost-js
@@ -22,6 +25,9 @@
 - https://github.com/blockfrost/blockfrost-kotlin
 - https://github.com/blockfrost/blockfrost-swift
 - https://github.com/blockfrost/blockfrost-ruby
+
+## Fracada - fractionalize NFTs
+- https://github.com/dcSpark/fracada
 
 ## Rust cardano ecosystem network
 - https://github.com/2nd-Layer/rust-cardano-ouroboros-network
