@@ -26,6 +26,9 @@
 - https://github.com/blockfrost/blockfrost-swift
 - https://github.com/blockfrost/blockfrost-ruby
 
+## Yoroi - frontend
+- https://github.com/Emurgo/yoroi-frontend
+
 ## Fracada - fractionalize NFTs
 - https://github.com/dcSpark/fracada
 
