@@ -87,4 +87,7 @@
 - https://github.com/fivebinaries/cardano-metadata-oracle
 
 ## Metadata Communication Example
-https://github.com/fivebinaries/cip-metadata-communication-example
+- https://github.com/fivebinaries/cip-metadata-communication-example
+
+## ADA PH - Identity Token
+- https://github.com/ADAPhilippines/IdentityToken
