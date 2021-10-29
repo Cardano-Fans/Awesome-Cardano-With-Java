@@ -53,6 +53,9 @@
 ## Fracada - fractionalize NFTs
 - https://github.com/dcSpark/fracada
 
+## Cardano Wallet (SHOP stakepool)
+- https://github.com/uniVocity/envlp-cardano-wallet
+
 ## Cardano SPO Raffles
 - https://github.com/Haxfx/raffle
 
