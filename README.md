@@ -64,3 +64,6 @@
 
 ## Cardano Transaction Serialization Library (golang)
 - https://github.com/fivebinaries/go-cardano-serialization
+
+## AdaGate API
+- https://github.com/adagate-io/adagate-api
