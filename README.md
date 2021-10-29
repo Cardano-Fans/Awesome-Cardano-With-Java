@@ -65,6 +65,9 @@
 ## Plutus Learning
 - https://gitlab.com/gimbalabs/plutus-learning
 
+## Plutus Extra
+- https://github.com/Liqwid-Labs/plutus-extra
+
 ## Rust cardano ecosystem network
 - https://github.com/2nd-Layer/rust-cardano-ouroboros-network
 
