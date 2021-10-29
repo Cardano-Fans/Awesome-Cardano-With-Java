@@ -55,3 +55,6 @@
 
 ## Cardano Sharp Wallet
 - https://github.com/CardanoSharp/cardanosharp-wallet
+
+## Security Audit DAO
+- https://github.com/SCATDAO
