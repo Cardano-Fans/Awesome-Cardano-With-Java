@@ -67,3 +67,9 @@
 
 ## AdaGate API
 - https://github.com/adagate-io/adagate-api
+
+## Cardano private test net
+- https://github.com/woofpool/cardano-private-testnet-setup
+
+## Privat Alonzo Testnet (like Ganache from ETH)
+- https://github.com/minswap/private-alonzo-testnet
