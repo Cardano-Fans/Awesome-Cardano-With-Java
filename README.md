@@ -38,4 +38,6 @@
 ## Cardano's Java Transaction Serialization Library
 - https://github.com/bloxbean/cardano-client-lib
 
+## Vacuum Labs - Adalite wallet
+https://github.com/vacuumlabs/adalite
 
