@@ -44,3 +44,11 @@
 ## NFT Maker API in Ruby
 - https://github.com/lacepool/nftmaker_api
 
+## Ogmios node
+- https://ogmios.dev/
+
+## cardano-node
+- https://github.com/input-output-hk/cardano-node
+
+## Wordpress - woocommerce
+- https://github.com/cardano-mercury/cardano-mercury-woocommerce
