@@ -53,6 +53,9 @@
 ## Yoroi - frontend
 - https://github.com/Emurgo/yoroi-frontend
 
+## Plutus Pioneer Program
+- https://github.com/input-output-hk/plutus-pioneer-program
+
 ## Fracada - fractionalize NFTs
 - https://github.com/dcSpark/fracada
 
