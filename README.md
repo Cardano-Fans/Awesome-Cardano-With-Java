@@ -29,6 +29,12 @@
 - https://github.com/blockfrost/blockfrost-swift
 - https://github.com/blockfrost/blockfrost-ruby
 
+## Cardano Developer Portal
+- https://developers.cardano.org/
+
+## Cardano Reddit
+- https://www.reddit.com/r/CardanoDevelopers/
+
 ## NFT API
 - https://nftada.io/api
 
