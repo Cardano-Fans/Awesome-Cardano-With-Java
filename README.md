@@ -61,3 +61,6 @@
 
 ## Stakepool Scripts
 - https://github.com/gitmachtl/scripts/
+
+## Cardano Transaction Serialization Library (golang)
+- https://github.com/fivebinaries/go-cardano-serialization
