@@ -85,3 +85,6 @@
 
 ## Oracle metadata submitter
 - https://github.com/fivebinaries/cardano-metadata-oracle
+
+## Metadata Communication Example
+https://github.com/fivebinaries/cip-metadata-communication-example
