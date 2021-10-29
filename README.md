@@ -104,6 +104,9 @@
 ## NFT Maker API in Ruby
 - https://github.com/lacepool/nftmaker_api
 
+## Daedalion Link (https://dandelion.link/)
+- https://gimbalabs.com/dandelion/apis
+
 ## Ogmios node (https://ogmios.dev/)
 - https://github.com/CardanoSolutions/ogmios
 
