@@ -26,6 +26,9 @@
 - https://github.com/blockfrost/blockfrost-swift
 - https://github.com/blockfrost/blockfrost-ruby
 
+## NFT API
+- https://nftada.io/api
+
 ## Wallet checksum
 - https://github.com/Emurgo/CIP4
 
