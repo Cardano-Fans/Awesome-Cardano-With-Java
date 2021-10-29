@@ -74,6 +74,9 @@
 ## Ledger hardware wallets
 - https://github.com/vacuumlabs/ledgerjs-cardano-shelley
 
+## ledger js hw app
+- https://github.com/cardano-foundation/ledgerjs-hw-app-cardano
+
 ## NFT Maker API in Ruby
 - https://github.com/lacepool/nftmaker_api
 
