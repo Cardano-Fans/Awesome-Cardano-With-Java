@@ -26,3 +26,12 @@ https://www.npmjs.com/package/@emurgo/cardano-serialization-lib-nodejs
 ## cardano-wallet-js
 - https://github.com/tango-crypto/cardano-wallet-js
 
+## Nami-Wallet
+- https://github.com/Berry-Pool/nami-wallet
+
+## cardano-cli-js wrapper
+- https://github.com/Berry-Pool/cardanocli-js
+
+## PAB prototype in JavaScript
+- https://github.com/Berry-Pool/spacebudz/tree/main/src/cardano/market
+
