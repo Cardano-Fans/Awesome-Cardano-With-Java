@@ -80,3 +80,5 @@
 ## Nutlink Explorer (explorer.nut.link/)
 - https://github.com/fivebinaries/nutlink-explorer
 
+## Oracle metadata submitter
+- https://github.com/fivebinaries/cardano-metadata-oracle
