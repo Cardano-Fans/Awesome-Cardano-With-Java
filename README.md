@@ -38,6 +38,9 @@
 ## Fracada - fractionalize NFTs
 - https://github.com/dcSpark/fracada
 
+## Plutus Learning
+- https://gitlab.com/gimbalabs/plutus-learning
+
 ## Rust cardano ecosystem network
 - https://github.com/2nd-Layer/rust-cardano-ouroboros-network
 
