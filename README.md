@@ -26,6 +26,12 @@
 - https://github.com/blockfrost/blockfrost-swift
 - https://github.com/blockfrost/blockfrost-ruby
 
+## Wallet checksum
+- https://github.com/Emurgo/CIP4
+
+## CIP14 - Asset fingerprinting
+-  https://github.com/Emurgo/cip14-js
+
 ## Yoroi - frontend
 - https://github.com/Emurgo/yoroi-frontend
 
