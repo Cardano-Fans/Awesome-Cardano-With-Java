@@ -39,5 +39,8 @@
 - https://github.com/bloxbean/cardano-client-lib
 
 ## Vacuum Labs - Adalite wallet
-https://github.com/vacuumlabs/adalite
+- https://github.com/vacuumlabs/adalite
+
+## NFT Maker API in Ruby
+- https://github.com/lacepool/nftmaker_api
 
