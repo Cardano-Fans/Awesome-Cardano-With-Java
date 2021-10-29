@@ -38,6 +38,9 @@
 ## NFT API
 - https://nftada.io/api
 
+## Toolkit for Cardano to help develop smart contracts
+- https://github.com/SundaeSwap-finance/toolkit-for-cardano
+
 ## Wallet checksum
 - https://github.com/Emurgo/CIP4
 
