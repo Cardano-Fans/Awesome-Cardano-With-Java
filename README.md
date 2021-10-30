@@ -20,7 +20,7 @@
 
 ## Quick Development but Centralized
 
-## Blockfrost SDKs - abstracts away cardano-node access
+### Blockfrost SDKs - abstracts away cardano-node access
 - https://github.com/blockfrost/blockfrost-java
 - https://github.com/blockfrost/blockfrost-js
 - https://github.com/blockfrost/blockfrost-rust
@@ -34,16 +34,31 @@
 - https://github.com/blockfrost/blockfrost-swift
 - https://github.com/blockfrost/blockfrost-ruby
 
-## Smart Contract Libraries / Support
+### Daedalion Link (https://dandelion.link/)
+- https://gimbalabs.com/dandelion/apis
 
-### Toolkit for Cardano to help develop smart contracts
-- https://github.com/SundaeSwap-finance/toolkit-for-cardano
+## Smart Contract Libraries / Support
 
 ### Fracada - fractionalize NFTs
 - https://github.com/dcSpark/fracada
 
+### Plutus Extra
+- https://github.com/Liqwid-Labs/plutus-extra
+
+### Alonzo Hello World smart contract
+- https://github.com/fivebinaries/welcome-to-alonzo
+
 ### Alonzo testnet for devs
 - https://github.com/SundaeSwap-finance/alonzo-testnet
+
+### Cardano private test net
+- https://github.com/woofpool/cardano-private-testnet-setup
+
+### Private Alonzo Testnet (like Ganache from ETH)
+- https://github.com/minswap/private-alonzo-testnet
+
+### Plutus Learning
+- https://gitlab.com/gimbalabs/plutus-learning
 
 ## Learning / Tutorials
 
@@ -68,18 +83,11 @@
 ## Yoroi - frontend
 - https://github.com/Emurgo/yoroi-frontend
 
-
 ## Cardano Wallet (SHOP stakepool)
 - https://github.com/uniVocity/envlp-cardano-wallet
 
 ## Cardano SPO Raffles
 - https://github.com/Haxfx/raffle
-
-## Plutus Learning
-- https://gitlab.com/gimbalabs/plutus-learning
-
-## Plutus Extra
-- https://github.com/Liqwid-Labs/plutus-extra
 
 ## Rust cardano ecosystem network
 - https://github.com/2nd-Layer/rust-cardano-ouroboros-network
@@ -114,9 +122,6 @@
 ## NFT Maker API in Ruby
 - https://github.com/lacepool/nftmaker_api
 
-## Daedalion Link (https://dandelion.link/)
-- https://gimbalabs.com/dandelion/apis
-
 ## Ogmios node (https://ogmios.dev/)
 - https://github.com/CardanoSolutions/ogmios
 
@@ -140,15 +145,6 @@
 
 ## AdaGate API
 - https://github.com/adagate-io/adagate-api
-
-## Cardano private test net
-- https://github.com/woofpool/cardano-private-testnet-setup
-
-## Private Alonzo Testnet (like Ganache from ETH)
-- https://github.com/minswap/private-alonzo-testnet
-
-## Alonzo Hello World smart contract
-- https://github.com/fivebinaries/welcome-to-alonzo
 
 ## Nutlink Explorer (explorer.nut.link/)
 - https://github.com/fivebinaries/nutlink-explorer
