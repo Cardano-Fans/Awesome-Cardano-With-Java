@@ -37,6 +37,10 @@
 ### Daedalion Link (https://dandelion.link/)
 - https://gimbalabs.com/dandelion/apis
 
+### AdaGate API
+- https://github.com/adagate-io/adagate-api
+
+
 ## Smart Contract Libraries / Support
 
 ### Fracada - fractionalize NFTs
@@ -143,9 +147,6 @@
 ## Cardano Transaction Serialization Library (golang)
 - https://github.com/fivebinaries/go-cardano-serialization
 
-## AdaGate API
-- https://github.com/adagate-io/adagate-api
-
 ## Nutlink Explorer (explorer.nut.link/)
 - https://github.com/fivebinaries/nutlink-explorer
 
@@ -155,8 +156,10 @@
 ## Metadata Communication Example
 - https://github.com/fivebinaries/cip-metadata-communication-example
 
-## ADA PH - Identity Token
+## DIDs
+
+### ADA PH - Identity Token
 - https://github.com/ADAPhilippines/IdentityToken
 
-## ADA PH - FileSystem on ADA
+### ADA PH - FileSystem on ADA
 - https://github.com/ADAPhilippines/ADAFS.UI
