@@ -43,8 +43,13 @@
 ### Daedalion Link (https://dandelion.link/)
 - https://gimbalabs.com/dandelion/apis
 
+## Decentralized REST view into Cardano
+
 ### AdaGate API
 - https://github.com/adagate-io/adagate-api
+
+### Daedalion Link (https://dandelion.link/)
+- https://gimbalabs.com/dandelion/apis
 
 ## Development Tools
 
