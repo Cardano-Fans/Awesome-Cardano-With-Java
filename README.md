@@ -1,7 +1,7 @@
 # Cardano-Development-Universe
 
 ## Cardano CIPs (Cardano Improvement Proposals)
-- https://github.com/fivebinaries/CIPs
+- https://github.com/cardano-foundation/CIPs
 
 ## Cardano Token Registry
 - https://github.com/cardano-foundation/cardano-token-registry
