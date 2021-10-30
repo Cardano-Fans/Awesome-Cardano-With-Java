@@ -1,19 +1,24 @@
-# Cardano-Development-Universe
+# Core - Foundation
 
-## Cardano CIPs (Cardano Improvement Proposals)
+### Cardano CIPs (Cardano Improvement Proposals)
 - https://github.com/cardano-foundation/CIPs
 
-## Cardano Token Registry
+### Cardano Token Registry
 - https://github.com/cardano-foundation/cardano-token-registry
 
-## Rust / WASM serialisation library - serialise transaction before submitting
+### Developer Portal
+- https://developers.cardano.org/
+
+## Transaction Serialization
+
+### Rust / WASM serialisation library - serialise transaction before submitting
 - https://github.com/Emurgo/cardano-serialization-lib
 
-## NPM module for cardano-serialisation-library - NPM module for the above
+### NPM module for cardano-serialisation-library - NPM module for the above
 - https://www.npmjs.com/package/@emurgo/cardano-serialization-lib-nodejs
+- https://www.npmjs.com/package/@emurgo/cardano-serialization-lib-browser
 
-## Plutus Learning
-- https://gitlab.com/gimbalabs/plutus-learning
+## Quick Development but Centralized
 
 ## Blockfrost SDKs - abstracts away cardano-node access
 - https://github.com/blockfrost/blockfrost-java
@@ -29,8 +34,24 @@
 - https://github.com/blockfrost/blockfrost-swift
 - https://github.com/blockfrost/blockfrost-ruby
 
-## Cardano Developer Portal
-- https://developers.cardano.org/
+## Smart Contract Libraries / Support
+
+### Toolkit for Cardano to help develop smart contracts
+- https://github.com/SundaeSwap-finance/toolkit-for-cardano
+
+### Fracada - fractionalize NFTs
+- https://github.com/dcSpark/fracada
+
+### Alonzo testnet for devs
+- https://github.com/SundaeSwap-finance/alonzo-testnet
+
+## Learning / Tutorials
+
+### Plutus Learning
+- https://gitlab.com/gimbalabs/plutus-learning
+
+### Plutus Pioneer Program
+- https://github.com/input-output-hk/plutus-pioneer-program
 
 ## Cardano Reddit
 - https://www.reddit.com/r/CardanoDevelopers/
@@ -38,26 +59,15 @@
 ## NFT API
 - https://nftada.io/api
 
-## Toolkit for Cardano to help develop smart contracts
-- https://github.com/SundaeSwap-finance/toolkit-for-cardano
-
 ## Wallet checksum
 - https://github.com/Emurgo/CIP4
 
 ## CIP14 - Asset fingerprinting
 -  https://github.com/Emurgo/cip14-js
 
-## Alonzo testnet for devs
-- https://github.com/SundaeSwap-finance/alonzo-testnet
-
 ## Yoroi - frontend
 - https://github.com/Emurgo/yoroi-frontend
 
-## Plutus Pioneer Program
-- https://github.com/input-output-hk/plutus-pioneer-program
-
-## Fracada - fractionalize NFTs
-- https://github.com/dcSpark/fracada
 
 ## Cardano Wallet (SHOP stakepool)
 - https://github.com/uniVocity/envlp-cardano-wallet
