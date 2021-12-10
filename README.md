@@ -94,6 +94,8 @@
 ### Plutus Learning
 - https://gitlab.com/gimbalabs/plutus-learning
 
+- https://github.com/Plutonomicon/plutonomicon
+
 ## Learning / Tutorials
 
 ### Plutus Learning
