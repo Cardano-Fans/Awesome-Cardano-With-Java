@@ -164,6 +164,10 @@
 ## Cardano-Node with Docker
 - https://github.com/Cardano-Fans/nessus-cardano
 
+## Oura / Pallas
+- https://github.com/txpipe/oura
+- https://github.com/txpipe/pallas
+
 ## Wordpress - woocommerce
 - https://github.com/cardano-mercury/cardano-mercury-woocommerce
 
