@@ -71,6 +71,9 @@
 ### NFT ADA Token Minter
 - https://nftada.io/
 
+### Python Module for Cardano
+- https://github.com/emesik/cardano-python
+
 ## Smart Contract Libraries / Support
 
 ### Fracada - fractionalize NFTs
