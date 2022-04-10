@@ -128,6 +128,9 @@
 ## Cardano SPO Raffles
 - https://github.com/Haxfx/raffle
 
+## CRFA Block / Leaderschedule Checker
+- https://github.com/Cardano-Fans/crfa-block-checker
+
 ## Rust cardano ecosystem network
 - https://github.com/2nd-Layer/rust-cardano-ouroboros-network
 
