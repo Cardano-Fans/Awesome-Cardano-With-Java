@@ -1,204 +1,86 @@
-# Core - Foundation
+## Cardano Client Lib
 
-### Cardano CIPs (Cardano Improvement Proposals)
-- https://github.com/cardano-foundation/CIPs
+https://github.com/bloxbean/cardano-client-lib
 
-### Cardano Token Registry
-- https://github.com/cardano-foundation/cardano-token-registry
+A client library for Cardano in Java. This library simplifies the interaction with Cardano blockchain from a Java application.
 
-### Developer Portal
-- https://developers.cardano.org/
+## Yaci
 
-## Transaction Serialization
+https://github.com/bloxbean/yaci
 
-### Rust / WASM serialisation library - serialise transaction before submitting
-- https://github.com/Emurgo/cardano-serialization-lib
+A Cardano Mini Protocols implementation in Java.
 
-## Cardano Transaction Serialization Library (golang)
-- https://github.com/fivebinaries/go-cardano-serialization
+## Yaci CLI
 
-## Cardano Transaction Serialization Library (java)
-- https://github.com/bloxbean/cardano-client-lib
+https://github.com/bloxbean/yaci-cli
 
-### NPM module for cardano-serialisation-library - NPM module for the above
-- https://www.npmjs.com/package/@emurgo/cardano-serialization-lib-nodejs
-- https://www.npmjs.com/package/@emurgo/cardano-serialization-lib-browser
+A CLI tool aims to help developers building on Cardano.
 
-## Quick Development but Centralized
+## Yaci Cardano Test
 
-### Blockfrost SDKs - abstracts away cardano-node access
-- https://github.com/blockfrost/blockfrost-java
-- https://github.com/blockfrost/blockfrost-js
-- https://github.com/blockfrost/blockfrost-rust
-- https://github.com/blockfrost/blockfrost-websocket-link
-- https://github.com/blockfrost/blockfrost-go
-- https://github.com/blockfrost/blockfrost-scala
-- https://github.com/blockfrost/blockfrost-python
-- https://github.com/blockfrost/blockfrost-dotnet
-- https://github.com/blockfrost/blockfrost-elixir
-- https://github.com/blockfrost/blockfrost-kotlin
-- https://github.com/blockfrost/blockfrost-swift
-- https://github.com/blockfrost/blockfrost-ruby
+https://github.com/bloxbean/yaci-cardano-test
 
-### Daedalion Link (https://dandelion.link/)
-- https://gimbalabs.com/dandelion/apis
+A small library, which with the help of test containers library allows you easily to write integration tests for Cardano.
 
-## Decentralized REST view into Cardano
+## Yaci DevKit
 
-### AdaGate API
-- https://github.com/adagate-io/adagate-api
+https://github.com/bloxbean/yaci-devkit
 
-### Daedalion Link (https://dandelion.link/)
-- https://gimbalabs.com/dandelion/apis
+A set of dev tools for development on Cardano.
 
-## Development Tools
+Yaci DevKit docker-compose has following components
 
-### Heidrun
-- https://github.com/adosia/Heidrun
+- Yaci CLI - A CLI to create/manage a local cluster and other utilities
+- Yaci Store - A lightweight indexer with H2 DB
+- Yaci Viewer - A minimal blockchain data viewer for developers Cardano Node
+- Yaci DevKit provides API endpoints that can be used in your off-chain code (e.g., a Java app) to post transactions to your local cluster.
 
-### Mint Cardano Native Token
-- https://cardano-native-token.com/
+## Yaci Store
 
-### NFT Maker / NFT Maker PRO
-- https://www.nft-maker.io/
+https://github.com/bloxbean/yaci-store
 
-### NFT Key
-- https://github.com/reliablestaking/nftkeyme-discord
+A Cardano datastore implementation using Yaci, including spring boot starter. Effectively this tool allows you to embedd a chain indexer into your backend app.
 
-### CENT's metadata tools
-- https://bi.stakepoolcentral.com/
+## Aiken Java Binding
 
-### NFT ADA Token Minter
-- https://nftada.io/
+https://github.com/bloxbean/aiken-java-binding
 
-### Transaction Submit Service
-- https://github.com/ADAPhilippines/ADAPH.TxSubmit
+This library enables Java apps to evaluate script costs without relying on external services. It uses aiken-jna-wrapper to access Aiken Rust libraries.
 
-### Python Module for Cardano
-- https://github.com/emesik/cardano-python
+## IntelliJ ADA
 
-## Smart Contract Libraries / Support
+https://github.com/bloxbean/intelliada
 
-### Fracada - fractionalize NFTs
-- https://github.com/dcSpark/fracada
+Idea Plugin integrated with Cardano
 
-### Plutus Extra
-- https://github.com/Liqwid-Labs/plutus-extra
 
-### Alonzo Hello World smart contract
-- https://github.com/fivebinaries/welcome-to-alonzo
+## Hydra Java
 
-### Alonzo testnet for devs
-- https://github.com/SundaeSwap-finance/alonzo-testnet
+https://github.com/cardano-foundation/hydra-java
 
-### Cardano private test net
-- https://github.com/woofpool/cardano-private-testnet-setup
+Set of modules to ease working with Cardano's Hydra
 
-### Private Alonzo Testnet (like Ganache from ETH)
-- https://github.com/minswap/private-alonzo-testnet
+## Merkle Tree (Java + Aiken)
 
-### Plutus Learning
-- https://gitlab.com/gimbalabs/plutus-learning
+https://github.com/cardano-foundation/merkle-tree-java/
 
-- https://github.com/Plutonomicon/plutonomicon
+Implementation of Merkle Tree in Java with compatible on-chain code written in Aiken.
 
-## Learning / Tutorials
+## Koios Java Client
 
-### Plutus Learning
-- https://gitlab.com/gimbalabs/plutus-learning
+https://github.com/cardano-community/koios-java-client
 
-### Plutus Pioneer Program
-- https://github.com/input-output-hk/plutus-pioneer-program
+Koios Java Client is a Java REST Client library which allows interacting with Koios Server Instances using Java Objects.
 
-## Cardano Reddit
-- https://www.reddit.com/r/CardanoDevelopers/
+## Ogmios Java Client
 
-## NFT API
-- https://nftada.io/api
+https://github.com/adabox-aio/ogmios-java-client
 
-## Wallet checksum
-- https://github.com/Emurgo/CIP4
+Ogmios Java Client is a Java library that can be used to convert Java Objects into their Ogmios Requests JSON/RPC representation. It can also be used to convert Ogmios JSON/RPC Responses to their equivalent Java objects.
+The Java library allows synchronous communication with Ogmios Server by interacting with a Websocket client connection using a timeout parameter.
 
-## CIP14 - Asset fingerprinting
--  https://github.com/Emurgo/cip14-js
+## NFT Storage Java Client
 
-## Yoroi - frontend
-- https://github.com/Emurgo/yoroi-frontend
+https://github.com/adabox-aio/nft-storage-java-client 
 
-## Cardano Wallet (SHOP stakepool)
-- https://github.com/uniVocity/envlp-cardano-wallet
-
-## Cardano SPO Raffles
-- https://github.com/Haxfx/raffle
-
-## CRFA Block / Leaderschedule Checker
-- https://github.com/Cardano-Fans/crfa-block-checker
-
-## Rust cardano ecosystem network
-- https://github.com/2nd-Layer/rust-cardano-ouroboros-network
-
-## cardano-wallet-js
-- https://github.com/tango-crypto/cardano-wallet-js
-
-## Nami-Wallet
-- https://github.com/Berry-Pool/nami-wallet
-
-## cardano-cli-js wrapper
-- https://github.com/Berry-Pool/cardanocli-js
-
-## Cardano CLI for hardware wallets
-- https://github.com/vacuumlabs/cardano-hw-cli
-
-## PAB prototype in JavaScript
-- https://github.com/Berry-Pool/spacebudz/tree/main/src/cardano/market
-
-## Vacuum Labs - Adalite wallet
-- https://github.com/vacuumlabs/adalite
-
-## Ledger hardware wallets
-- https://github.com/vacuumlabs/ledgerjs-cardano-shelley
-
-## ledger js hw app
-- https://github.com/cardano-foundation/ledgerjs-hw-app-cardano
-
-## NFT Maker API in Ruby
-- https://github.com/lacepool/nftmaker_api
-
-## Ogmios node (https://ogmios.dev/)
-- https://github.com/CardanoSolutions/ogmios
-
-## cardano-node
-- https://github.com/input-output-hk/cardano-node
-
-## Cardano-Node with Docker
-- https://github.com/Cardano-Fans/nessus-cardano
-
-## Oura / Pallas
-- https://github.com/txpipe/oura
-- https://github.com/txpipe/pallas
-
-## Wordpress - woocommerce
-- https://github.com/cardano-mercury/cardano-mercury-woocommerce
-
-## Cardano Sharp Wallet
-- https://github.com/CardanoSharp/cardanosharp-wallet
-
-## Security Audit DAO
-- https://github.com/SCATDAO
-
-## Nutlink Explorer (explorer.nut.link/)
-- https://github.com/fivebinaries/nutlink-explorer
-
-## Oracle metadata submitter
-- https://github.com/fivebinaries/cardano-metadata-oracle
-
-## Metadata Communication Example
-- https://github.com/fivebinaries/cip-metadata-communication-example
-
-## DIDs
-
-### ADA PH - Identity Token
-- https://github.com/ADAPhilippines/IdentityToken
-
-### ADA PH - FileSystem on ADA
-- https://github.com/ADAPhilippines/ADAFS.UI
+Allows persisting NFTs.
