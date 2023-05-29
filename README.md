@@ -65,6 +65,12 @@ https://github.com/cardano-foundation/merkle-tree-java/
 
 Implementation of Merkle Tree in Java with compatible on-chain code written in Aiken.
 
+## CIP-30 Data Signature Parser
+
+https://github.com/cardano-foundation/cip30-data-signature-parser
+
+Java implementation of CIP-30 DataSignature parsing and validation
+
 ## Koios Java Client
 
 https://github.com/cardano-community/koios-java-client
