@@ -102,6 +102,12 @@ https://github.com/nau/scalus
 
 Implementation of eval phase 2 on the JVM as well as smart contract programming language based on Scala that compiles to the Plutus core.
 
+## Newm Server (including TxBuilding module)
+
+- https://github.com/projectNEWM/newm-server
+
+Backend components to support mobile apps and the artist portal. The code is written 100% in Kotlin.
+
 ## NFT Storage Java Client
 
 https://github.com/adabox-aio/nft-storage-java-client 
