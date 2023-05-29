@@ -53,7 +53,6 @@ https://github.com/bloxbean/intelliada
 
 Idea Plugin integrated with Cardano
 
-
 ## Hydra Java
 
 https://github.com/cardano-foundation/hydra-java
@@ -78,6 +77,12 @@ https://github.com/adabox-aio/ogmios-java-client
 
 Ogmios Java Client is a Java library that can be used to convert Java Objects into their Ogmios Requests JSON/RPC representation. It can also be used to convert Ogmios JSON/RPC Responses to their equivalent Java objects.
 The Java library allows synchronous communication with Ogmios Server by interacting with a Websocket client connection using a timeout parameter.
+
+## Scalus
+
+https://github.com/nau/scalus
+
+Implementation of eval phase 2 on the JVM as well as smart contract programming language based on Scala that compiles to the Plutus core.
 
 ## NFT Storage Java Client
 
