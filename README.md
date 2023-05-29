@@ -4,6 +4,18 @@ https://github.com/bloxbean/cardano-client-lib
 
 A client library for Cardano in Java. This library simplifies the interaction with Cardano blockchain from a Java application.
 
+## Blockfrost Java Client
+
+https://github.com/blockfrost/blockfrost-java
+
+Java Client that significatly simplifies interaction with Blockfrost API
+
+## Kogmios
+
+https://github.com/projectNEWM/kogmios
+
+Kotlin implementation of Ogmios Client.
+
 ## Yaci
 
 https://github.com/bloxbean/yaci
