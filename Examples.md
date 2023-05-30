@@ -29,3 +29,7 @@
 ## Yaci Java Containers Test Example
 
 - https://github.com/bloxbean/yaci-cardano-test-sample
+
+## Scalus Starter
+
+- https://github.com/nau/scalus-starter
