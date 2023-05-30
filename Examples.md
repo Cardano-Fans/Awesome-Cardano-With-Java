@@ -30,6 +30,10 @@
 
 - https://github.com/bloxbean/yaci-cardano-test-sample
 
-## Scalus Starter
+## Scalus Plutus Starter
 
 - https://github.com/nau/scalus-starter
+
+## Hydra Voting PoC
+
+- https://github.com/cardano-foundation/hydra-voting-poc
