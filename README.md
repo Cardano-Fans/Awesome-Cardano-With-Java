@@ -108,6 +108,10 @@ Implementation of eval phase 2 on the JVM as well as smart contract programming 
 
 Backend components to support mobile apps and the artist portal. The code is written 100% in Kotlin.
 
+## Web 3 Auth with NFTs
+
+- https://github.com/argus-nft/cardano-web3-auth-java
+
 ## NFT Storage Java Client
 
 https://github.com/adabox-aio/nft-storage-java-client 
