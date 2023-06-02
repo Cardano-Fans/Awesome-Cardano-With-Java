@@ -45,7 +45,7 @@ Yaci DevKit docker-compose has following components
 - Yaci CLI - A CLI to create/manage a local cluster and other utilities
 - Yaci Store - A lightweight indexer with H2 DB
 - Yaci Viewer - A minimal blockchain data viewer for developers Cardano Node
-- Yaci DevKit provides API endpoints that can be used in your off-chain code (e.g., a Java app) to post transactions to your local cluster.
+- Yaci DevKit - provides API endpoints that can be used in your off-chain code (e.g., a Java app) to post transactions to your local cluster.
 
 ## Yaci Store
 
