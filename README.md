@@ -118,6 +118,6 @@ Backend components to support mobile apps and the artist portal. The code is wri
 Allows persisting NFTs.
 
 ## Cardano Conversions Library
-[https://github.com/cardano-foundation/hydra-java-client](https://github.com/cardano-foundation/cf-cardano-conversions-java)https://github.com/cardano-foundation/cf-cardano-conversions-java
+[https://github.com/cardano-foundation/hydra-java-client](https://github.com/cardano-foundation/cf-cardano-conversions-java)
 
 Conversions between various units in Cardano, e.g slot to epoch number, slot to UTC time.
