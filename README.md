@@ -99,7 +99,21 @@ The Java library allows synchronous communication with Ogmios Server by interact
 
 [https://github.com/nau/scalus](https://github.com/nau/scalus)
 
-Implementation of eval phase 2 on the JVM as well as smart contract programming language based on Scala that compiles to the Plutus core.
+Scalus is a platform for developing decentralized applications (DApps) on the Cardano blockchain.
+
+The goal is to make a full-stack development experience for Cardano DApps as smooth as possible. Using the same language, tools and code for frontend, backend and smart contracts development.
+
+### Features
+- Scala 3 to Cardano Plutus Core compiler
+- Standard library for Plutus contracts development
+- Plutus V1 and V2 support
+- Plutus VM Interpreter and execution budget calculation
+- Property-based testing library
+- Untyped Plutus Core (UPLC) data types and functions
+- Flat, CBOR, JSON serialization
+- UPLC parser and pretty printer
+- Type safe UPLC expression builder, think of Plutarch
+- Bloxbean Cardano Client Lib integration
 
 ## Newm Server (including TxBuilding module)
 
@@ -121,8 +135,3 @@ Allows persisting NFTs.
 [https://github.com/cardano-foundation/cf-cardano-conversions-java](https://github.com/cardano-foundation/cf-cardano-conversions-java)](https://github.com/cardano-foundation/cf-cardano-conversions-java)
 
 Conversions between various units in Cardano, e.g slot to epoch number, slot to UTC time.
-
-## Cardano Hydra Client
-[https://github.com/cardano-foundation/hydra-java-client](https://github.com/cardano-foundation/hydra-java-client)
-
-Hydra Layer 2 Java Client
